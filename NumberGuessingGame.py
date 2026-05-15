@@ -17,4 +17,7 @@ while attempts > 0:
         break
     
     attempts -= 1
+    if attempts == 0:
+        print(f"Game Over! The number was {number_to_guess}.")
     print(f"You have {attempts} attempts left.")
+     
