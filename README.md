@@ -44,8 +44,5 @@ Since each file is standalone, running any project is as simple as:
 git clone https://github.com/Overlord1225/[your-repo-name].git
 cd [your-repo-name]
 
-# 2. Navigate to the project you want (e.g., GUI apps)
-cd GUI_Apps
-
 # 3. Run the Python file
 python "Chess(Tkinter).py"
